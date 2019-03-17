@@ -1,0 +1,96 @@
+@charset "UTF-8";
+
+@charset "UTF-8";
+
+
+body { 
+  background:  url(https://i.postimg.cc/XN5ZPbb7/forest-background-hd.jpg) no-repeat center center fixed; 
+  background-size: cover;
+  font-family: 'Oswald', sans-serif;
+  color: white;
+}
+
+#logoPic {
+	width: 100%;
+	height: 100%;
+}
+
+#nav li {
+	list-style-type: none;
+	display: inline;
+	margin-right: 10px;
+	color: 
+}
+
+#nav ul {
+	width: 40%;
+	margin: auto;
+	justify-content: flex-end;
+	margin-right: 10px;
+	align-items: center;
+	margin-bottom: auto !important;
+}
+
+#nav ul li a{
+	color: #495057;
+}
+
+.btn {
+	font-family: 'Bangers', cursive;
+}
+
+.btn-light {
+	background-color: #e9ecef;
+	border: 1px solid #ced4da;
+}
+
+
+#nav {
+	display: flex;
+}
+
+#picture {
+	width: 30%;
+}
+
+#main-content {
+	min-height: 400px;
+	padding: 10px;
+	display: flex;
+	flex-wrap: wrap;
+}
+
+h1 {
+	color: white;
+}
+
+.surveyConfirmation {
+	text-align: center;
+	color: white;
+	margin: 0 auto;
+}
+
+.surveyResultsParkItem {
+	background: rgba(220, 217, 217, 0.5);
+	color: black;
+	border-radius: 10px;
+	margin: 15px auto;
+	width: 95%;
+	color: white;
+	padding: 20px 10px 10px 10px;
+	display: flex;
+}
+
+.surveyResultsBox1 {
+	margin: auto 0;
+	with: 50%;
+}
+
+.surveyResultsBox2 {
+	display: flex;
+	flex-direction: column;
+	padding-left: 20px;
+	align-items: center;
+	width: 50%;
+	justify-content: center;
+}

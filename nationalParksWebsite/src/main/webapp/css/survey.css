@@ -1,0 +1,112 @@
+form {
+	width: 50%;
+	margin: auto;
+}
+
+html { 
+  background:  url(https://i.postimg.cc/XN5ZPbb7/forest-background-hd.jpg) no-repeat center center fixed; 
+  background-size: cover;
+  color: white;
+  text-align: center;
+}
+
+#main-content {
+	background: rgba(220, 217, 217, 0.01);
+	border-radius: 10px;
+	padding: 10px;
+	color: white;
+	text-align: center;
+	width: 80%;
+	margin:auto;
+}
+
+body {
+	background: rgba(220, 217, 217, 0.01);
+}
+
+h1 {
+	font-size: 60px;
+	margin-bottom: 10px;
+	font-family: 'Bangers', cursive;
+}
+
+.fixMe {
+	margin-bottom: 10px;
+}
+
+.btn {
+	font-family: 'Bangers', cursive;
+}
+
+.input-group-text {
+	font-family: 'Bangers', cursive;
+}
+
+.form-control {
+	 font-family: 'Oswald', sans-serif;
+	 color: white;
+}
+
+.custom-select {
+	 font-family: 'Oswald', sans-serif;
+	 color: white;
+}
+
+input[type="text"], textarea[type="text"]
+{
+    background: rgba(220, 217, 217, 0.3);
+    border: none;
+}
+
+#inputGroupSelect01 {
+	background: rgba(220, 217, 217, 0.3);
+	border: none;
+}
+
+option {
+	background: rgba(220, 217, 217, 0.3);
+}
+
+#postMessage {
+	background-color: #e9ecef;
+	color: #495057;
+}
+
+.btn-light {
+	background-color: #e9ecef;
+	border: 1px solid #ced4da;
+}
+
+
+
+::placeholder { /* Chrome/Opera/Safari */
+  color: white !important;
+}
+
+#logoPic {
+	width: 100%;
+}
+
+li {
+	list-style-type: none;
+	display: inline;
+	margin-right: 10px;
+}
+
+ul {
+	width: 40%;
+	margin: auto;
+	justify-content: flex-end;
+	margin-right: 10px;
+	align-items: center;
+	margin-bottom: auto !important;
+}
+
+nav {
+	display: flex;
+}
+
+#picture {
+	width: 30%;
+}
+
